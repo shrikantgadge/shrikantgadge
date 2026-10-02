@@ -1,101 +1,119 @@
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shrikant-gadge-4035b8428">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shrikantgadge">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 # 👋 Hi, I'm Shrikant Gadge
 
-## 🚀 DevOps Engineer | Cloud | AWS | Docker | Kubernetes
+### 🚀 DevOps Engineer | Cloud | Automation | CI/CD
 
-I am a DevOps Engineer passionate about
-Cloud Computing, DevOps, Automation and Infrastructure.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Always+Learning+%26+Building" />
 
-Currently learning and building hands-on projects with:
-
-- ☁️ AWS
-- 🐧 Linux
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔧 Terraform
-- 🔄 Jenkins
-- 🐙 Git & GitHub
-- 📊 Prometheus & Grafana
-- 🐍 Python
-- ⚙️ Ansible
+</div>
 
 ---
 
-## 🛠️ DevOps & Cloud Skills
+## 👨‍💻 About Me
+
+🎓 B.Sc. Computer Science Graduate
+
+🚀 Aspiring DevOps Engineer passionate about Cloud, Automation and Infrastructure.
+
+☁️ Currently building hands-on skills in AWS and Cloud Infrastructure.
+
+🐧 Practicing Linux administration and shell commands.
+
+🐳 Learning Docker and containerization.
+
+☸️ Learning Kubernetes and container orchestration.
+
+🔄 Building knowledge of CI/CD and automation.
+
+🌱 Continuously learning new DevOps tools and technologies.
+
+---
+
+## 🛠️ Technical Skills
 
 ### ☁️ Cloud Infrastructure
 
 | Domain | Technologies |
 |---|---|
 | Public Cloud | AWS, Azure |
-| Orchestration | Kubernetes, Helm |
-| Networking | ALB/NLB, Nginx Ingress, Route 53 |
+| Compute | EC2 |
+| Storage | S3, EBS, EFS |
+| Networking | VPC, Subnets, Route Tables |
+| Load Balancing | ALB, NLB |
+| Database | RDS |
+| DNS | Route 53 |
+| Monitoring | CloudWatch |
 
-### 🔄 Automation & CI/CD
+---
+
+### 🐳 Containers & Orchestration
+
+| Category | Technologies |
+|---|---|
+| Containers | Docker, Podman |
+| Orchestration | Kubernetes |
+| Package Management | Helm |
+| Ingress | Nginx Ingress |
+
+---
+
+### ⚙️ Infrastructure as Code & Automation
 
 | Category | Tools |
 |---|---|
-| IaC | Terraform, Ansible |
-| CI/CD | GitHub Actions, Jenkins, GitLab CI |
-| Containers | Docker, Podman |
-| Monitoring | Prometheus, Grafana, CloudWatch |
-| Scripting | Bash, Python |
+| IaC | Terraform |
+| Configuration Management | Ansible |
+| Automation | Bash, Python |
 
 ---
 
-## 📚 Currently Learning
+### 🔄 CI/CD
 
-- Kubernetes
-- Terraform
+- GitHub Actions
 - Jenkins
-- AWS
-- Docker
-- CI/CD
-- Infrastructure as Code
-- Monitoring & Observability
+- GitLab CI
+- Azure DevOps
 
 ---
 
-## 🚀 Projects
+### 📊 Monitoring & Observability
 
-### 🔹 AWS Cloud Projects
-Hands-on projects using EC2, VPC, IAM, S3,
-Load Balancer, Auto Scaling, RDS and Route 53.
-
-### 🔹 Docker Projects
-Containerized applications using Docker,
-Dockerfiles, images, containers and Docker networking.
-
-### 🔹 Kubernetes Projects
-Working with Pods, Deployments, Services,
-ConfigMaps, Secrets and Ingress.
+- Prometheus
+- Grafana
+- AWS CloudWatch
 
 ---
 
-## 🎯 Career Goal
+### 🔧 Version Control
 
-To become a skilled DevOps Engineer by continuously
-learning, building real-world projects and improving
-my cloud and automation skills.
+- Git
+- GitHub
 
 ---
 
-## 🤝 Connect With Me
+## 🧰 Technologies I'm Learning
 
-[LinkedIn](https://www.linkedin.com/in/shrikant-gadge-4035b8428) |
-[GitHub](https://github.com/shrikantgadge)
-
-⭐ Feel free to explore my repositories!
-<!--
-**shrikantgadge/shrikantgadge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+AWS
+Linux
+Git & GitHub
+Docker
+Kubernetes
+Terraform
+Jenkins
+Ansible
+GitHub Actions
+Prometheus
+Grafana
+Python
+Bash
