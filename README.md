@@ -81,7 +81,7 @@ my cloud and automation skills.
 
 ## 🤝 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/shrikant-gadge-4035b8428) |
+[LinkedIn](https://www.linkedin.com/in/shrikant-gadge-4035b8428) |
 [GitHub](https://github.com/shrikantgadge)
 
 ⭐ Feel free to explore my repositories!
